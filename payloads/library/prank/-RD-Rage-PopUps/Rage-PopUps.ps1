@@ -37,10 +37,12 @@ $cycles = 10
 # List as many questions here as you like, it will cycke through all of them
 
 $msgs = @(
-"Are all scammers as dumb as you?"
-"Is the pay worth being this big of a loser?"
-"Do your parents know what you do for a living?"
-"Does you boss know much much you suck at this job?"
+"I’m not arguing, I’m just explaining why I’m right"
+"The early bird might get the worm, but the second mouse gets the cheese."
+"If at first you don’t succeed, then skydiving is not for you."
+"I’m writing a book. I’ve got the page numbers done."
+"I tried to teach my computer some manners, but it keeps holding my files hostage."
+"I told my hacker I wasn’t paying the ransom… but now my files are really stubborn."
 )
 
 for ($i=1; $i -le $cycles; $i++) {
